@@ -1,4 +1,3 @@
-
 const currencyone=document.getElementById("currency-one");
 const amountone=document.getElementById("amount-one");
 const currencytwo=document.getElementById("currency-two");
